@@ -10,7 +10,7 @@ class Main{
   }
 }
 public static void main(String[] args) {
-  Winter(21);
+  Winter(21); // winter :(
   Snow();
 }
 }
